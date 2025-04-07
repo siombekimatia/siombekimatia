@@ -65,7 +65,7 @@
 [![TikTok](https://img.shields.io/badge/TikTok-siombekimatia-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@siombekimatia)
 
 ---
-![GitHub Contribution Calendar](https://github-contributions.vercel.app/api?username=siombekimatia&color=58a6ff&theme=dark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=siombekimatia&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 _“Tech is not just my career—it’s my craft and my classroom.”_
 
