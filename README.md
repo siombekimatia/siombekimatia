@@ -1,71 +1,73 @@
-<h1 align="center">Hi 👋, I'm Siombe Kimatia</h1>
-<h3 align="center">IT Specialist | Developer | Data Analyst | Tech Educator</h3>
+# Hi there! I'm Siombe Kimatia 👋
+
+<p align="left">
+  <a href="https://siombe-kimatia.netlify.app/" target="_blank">🌍 Personal Portfolio</a> •
+  <a href="https://linkedin.com/in/siombe-nyongesa102b7a407" target="_blank">💼 LinkedIn</a> •
+  <a href="mailto:siombekimatia@gmail.com">✉️ Email</a>
+</p>
+
+### 🚀 Frontend Developer | ICT Trainer & Tech Educator | Data Analyst
+
+I am a versatile, detail-oriented **Frontend Developer** and IT Specialist with a passion for building responsive, accessible, and high-performance user interfaces. Balancing a background in engineering clean code with educational training, I don't just build modern web apps—I focus on scalable architecture and intuitive user experiences.
 
 ---
 
-### 👨‍💻 About Me
+## 🛠️ Technical Ecosystem
 
-- 💻 I’m an experienced IT Professional with a background in:
-  - 🧑‍💻 **Software Development (Freelance)**
-  - 👨‍🏫 **IT Tutoring & ICT Training**
-  - 🛠️ **IT Support & System Maintenance**
-- 🎓 I hold a degree in **Business Information Technology**, with **A+ Certification**
-- 📈 I specialize in **Data Analysis**, **Troubleshooting**, and **Tech Education**
+### 💻 Frontend Engineering
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+</p>
 
----
+### ⚙️ Backend & Database Support
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="ExpressJS" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
 
-### 🛠️ Tech Stack
-
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Frameworks & Tools**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS--Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-**Data Analysis**  
-![SPSS](https://img.shields.io/badge/SPSS-303F9F?style=for-the-badge&logoColor=white)
-![STATA](https://img.shields.io/badge/STATA-005F86?style=for-the-badge&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
----
-
-### 🚀 Featured Projects
-
-- 🌐 [Smart Dry Cleaners Website](https://github.com/siombekimatia/smart-dry-cleaners)  
-- 🎱 [One Drop Pool Dealers Inventory](https://github.com/siombekimatia/one-drop-pool)  
-- 🍔 [FRESHBITES Food Delivery System](https://github.com/siombekimatia/freshbites-app)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siombekimatia&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siombekimatia&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siombekimatia&layout=compact&theme=tokyonight" />
+### 📊 Data Analysis & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="PowerBI" />
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
 </p>
 
 ---
 
-### 📫 Contact Me
+## 🌟 Featured Projects
 
-[![Email](https://img.shields.io/badge/Email-siombekimatia@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siombekimatia@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-siombekimatia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/siombekimatia)
-[![Instagram](https://img.shields.io/badge/Instagram-nyosasiki-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nyosasiki/)
-[![TikTok](https://img.shields.io/badge/TikTok-siombekimatia-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@siombekimatia)
+* **[Smart Dry Cleaners Website](https://github.com/siombekimatia)** – A modern, highly responsive frontend web application built to optimize client scheduling, bookings, and interactive pricing layouts.
+* **[FRESHBITES Food Delivery System](https://github.com/siombekimatia)** – A dynamic user-centric platform leveraging React state management to provide seamless menu filtering, cart behaviors, and frictionless checkout UI flow.
+* **[One Drop Pool Dealers Inventory](https://github.com/siombekimatia)** – A highly structured tracking dashboard that combines frontend data rendering with clean, fast interface states for managing backend logistics.
 
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=siombekimatia&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
-_“Tech is not just my career—it’s my craft and my classroom.”_
+## 📈 Git Insights & Activity
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siombekimatia&show_icons=true&theme=tokyonight&count_private=true" alt="Siombe's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siombekimatia&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siombekimatia&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🤝 Let's Connect!
+
+<p align="left">
+  <a href="mailto:siombekimatia@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/siombe-nyongesa102b7a407" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/nyosasiki" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
+
+> "Tech is not just my career—it's my craft and my classroom."
