@@ -73,8 +73,6 @@ I am a versatile, detail-oriented **Frontend Developer** and IT Specialist with 
 
 ## 🌟 Featured Projects
 
-## 🌟 Featured Projects
-
 * **[WasteDisposalApp](https://github.com/siombekimatia)** – A native mobile application engineered with Kotlin and the Room database, utilizing modern architectural components for efficient offline-first local data caching.
 * **[azani_internet_services](https://github.com/siombekimatia)** – A full-stack network and service management portal featuring a robust API architecture to streamline client subscriptions, diagnostics, and real-time connectivity data.
 * **[github-finder](https://github.com/siombekimatia)** – A sleek, high-performance web application built with React and TanStack Query, leveraging the GitHub REST API to perform real-time user profile searches, organization indexing, and repository analysis.
