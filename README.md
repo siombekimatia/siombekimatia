@@ -1,7 +1,7 @@
                                                           Hello World!! 👋
 
 <p align="left">
-  <a href="https://siombe-kimatia.netlify.app/" target="_blank">🌍 Personal Portfolio</a> •
+  <a href="https://siombe.netlify.app/" target="_blank">🌍 Personal Portfolio</a> •
   <a href="https://linkedin.com/in/siombe-nyongesa102b7a407" target="_blank">💼 LinkedIn</a> •
   <a href="mailto:siombekimatia@gmail.com">✉️ Email</a>
 </p>
